@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jnest/PycharmProjects/racism-in-plenaryprotocols/mlruns/0/dbb7ee4dce6343fe9f51f623e1b337c2/artifacts
+end_time: 1625592655571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: dbb7ee4dce6343fe9f51f623e1b337c2
+run_uuid: dbb7ee4dce6343fe9f51f623e1b337c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1625592643963
+status: 3
+tags: []
+user_id: jnest
